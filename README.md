@@ -23,7 +23,6 @@
 
 ## 🚀 Atualmente estudando
 
-- 🌱 *Sempre aprendendo algo novo*
 - 🔐 **Cibersegurança ofensiva**
 - ⛏️ **Construção de Novas ferramentas**
 - 🔥 **Low level**
@@ -57,26 +56,13 @@
 ---
 # Contatos
 
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@emperorandcupcake)
-[![Email](https://img.shields.io/badge/email-emperorhazer@proton.me-8b00ff?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:emperorhazer@proton.me)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GvxfYTc59g)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@matti4240)
+[![Email](https://img.shields.io/badge/email-emperorhazer@proton.me-8b00ff?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:DorkDev@proton.me)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/null)
 
 ---
 [![Donate](https://img.shields.io/badge/Donate-Bitcoin-orange)](#)
 
 **Bitcoin address:**  
-`bc1qky3el7p32a8yhualzrsk2c0r6e4k9a7d0r23r0`
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dork-dv/Dork-dv/715dc9164225e8158c8c84a79867a368ed6a9651/hzr.svg" width=120>
-  </p>
-
-### feito por Dork-dv baseado no Cosme-R 
-<p> Menção Honrosa </p>
-
-[![GitHub](https://img.shields.io/badge/GitHub-CosmeR-000?style=for-the-badge&logo=github)](https://github.com/Cosme-R)
-<!---
-Dork-dv/Dork-dv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+`null`
 
