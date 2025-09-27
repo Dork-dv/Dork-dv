@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dork-dv&color=blueviolet)
 ![Last Commit](https://img.shields.io/github/last-commit/Dork-dv/Dork-dv?color=bc13fe&style=for-the-badge)
-![Languages](https://img.shields.io/github/languages/top/Dork-dv/Dork-dv?style=for-the-badge&color=bc13fe)
+![Languages](https://img.shields.io/github/languages/top/Dork-dv/WhiteSCOUT?style=for-the-badge&color=bc13fe)
 ![Stars](https://img.shields.io/github/stars/Dork-dv/Dork-dv?style=for-the-badge&color=bc13fe)
 ![Forks](https://img.shields.io/github/forks/Dork-dv/Dork-dv?style=for-the-badge&color=bc13fe)
 ![Issues](https://img.shields.io/github/issues/Dork-dv/Dork-dv?style=for-the-badge&color=bc13fe)
