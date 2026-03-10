@@ -46,9 +46,7 @@
   <img src="https://nmap.org/images/nmap-logo-256x256.png" width="50"/> 
 </p>
 
----
 
----
 # Contatos
 
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@matti4240)
