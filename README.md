@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/36vxsBWKazgAAAAC/happy-anime.gif" width=500 />
+  <img src="https://media1.tenor.com/m/LfdMaTHYxBgAAAAC/anime.gif" width=500 />
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dork-dv&color=blueviolet)
